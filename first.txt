@@ -1,1 +1,2 @@
 This is text 1
+Some modified text 2
